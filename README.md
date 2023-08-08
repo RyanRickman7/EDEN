@@ -1,6 +1,7 @@
-# EDIN
-I a "Unified Operating System"
-        "Tree of Life"
-Electronic Data Integration Network 
-            "EDIN"     Federated Learning 
-         "DIGITAL-ME"  localized model 
+# Tree Of Life 
+             "EDIN"
+          "DIGITAL-ME"
+    "Unified Operating System"
+        
+Electronic Data Integration Network.  will be based upon a Federated Learning platform representing an accumulated data structures and architecture on a Global scale. The Master coppy representing the most accurate up to date algorithms.  
+ "DIGITAL-ME" is a localized model trained by the device owner and used to update EDIN the global model.
