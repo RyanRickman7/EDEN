@@ -1,6 +1,8 @@
-# Tree Of Life 
+# Virtual-Tree (A.of life-B.strife avoidance) testing
+            "E-MANUEL"
+           
              "EDIN"
-          "DIGITAL-ME"
+          "Virtual-ME"
     "Unified Operating System"
         
 Electronic Data Integration Network.  will be based upon a Federated Learning platform representing an accumulated data structures and architecture on a Global scale. The Master coppy representing the most accurate up to date algorithms.  
